@@ -139,6 +139,8 @@ section{
     height: 100%;
     border-right: 2px solid var(--main-color);
     z-index: -1;
+    animation: homeCursorText 6s linear infinite;
+    animation-delay: 2s;
     
 }
 
